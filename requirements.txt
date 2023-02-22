@@ -1,2 +1,2 @@
-selene == 2.0.0b3
-pytest == 7.2.1
+selene==2.0.0b17
+pytest
